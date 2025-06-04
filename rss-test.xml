@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://www.visitpeloponnese.com/en">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://www.test.com/en">
   <channel>
-    <title>Visit Peloponnese - Greece beyond the obvious</title>
-    <link>https://www.visitpeloponnese.com/en</link>
+    <title>Test</title>
+    <link>https://www.test.com/en</link>
     <description/>
     <language>en</language>
     
