@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://www.visitpeloponnese.com/en">
+  <channel>
+    <title>Visit Peloponnese - Greece beyond the obvious</title>
+    <link>https://www.visitpeloponnese.com/en</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+      <title>Crawler Mock Site</title>
+      <link>https://intermedve.github.io/crawler-mock-site/</link>
+      <description>A mock site for crawler testing.</description>
+      <pubDate>Fri, 16 May 2025 - 13:54</pubDate>
+      <dc:creator>gns</dc:creator>
+      <guid isPermaLink="false">0001</guid>
+    </item>
+  </channel>
+</rss>
